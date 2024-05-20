@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d9ab9bbfe9b7374cb18fb577d8932ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.01
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/Core/Mathematics/uint4.gen.cs
+  uploadId: 638660
